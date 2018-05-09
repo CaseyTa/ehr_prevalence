@@ -1,0 +1,31 @@
+﻿concept_id	concept_name	domain_id	concept_class_id
+27587	Disturbance of salivary secretion	Condition	Clinical Finding
+28898	Open wound of neck with complication	Condition	Clinical Finding
+30234	Neck sprain	Condition	Clinical Finding
+30770	Chronic peptic ulcer with hemorrhage but without obstruction	Condition	Clinical Finding
+72711	Shoulder stiff	Condition	Clinical Finding
+72993	Localized, primary osteoarthritis	Condition	Clinical Finding
+73036	Closed fracture of olecranon process of ulna	Condition	Clinical Finding
+73336	Closed traumatic dislocation ankle joint	Condition	Clinical Finding
+73872	Congenital deformity of knee joint	Condition	Clinical Finding
+73904	Open wound of buttock, uncomplicated	Condition	Clinical Finding
+2777820	Inspection of Mediastinum, Percutaneous Endoscopic Approach	Procedure	ICD10PCS
+2777934	Excision of Left Tunica Vaginalis, Open Approach	Procedure	ICD10PCS
+2777952	Excision of Bilateral Testes, Open Approach	Procedure	ICD10PCS
+2778187	Excision of Right Vas Deferens, Percutaneous Endoscopic Approach	Procedure	ICD10PCS
+2778619	Removal of Other Device from Chest Wall, Percutaneous Approach	Procedure	ICD10PCS
+2778888	Resection of Left Fallopian Tube, Open Approach	Procedure	ICD10PCS
+2778905	Resection of Cervix, Via Natural or Artificial Opening	Procedure	ICD10PCS
+2779023	Control Bleeding in Abdominal Wall, Open Approach	Procedure	ICD10PCS
+2779088	Removal of Drainage Device from Lower Back, Open Approach	Procedure	ICD10PCS
+2779524	Drainage of Right Pleural Cavity with Drainage Device, Open Approach	Procedure	ICD10PCS
+19074063	Benzocaine 200 MG/ML Mucous Membrane Topical Solution	Drug	Clinical Drug
+19074464	cadexomer iodine 0.009 MG/MG Topical Gel	Drug	Clinical Drug
+19074495	1 ML Calcitriol 0.002 MG/ML Injection	Drug	Quant Clinical Drug
+19075349	Cimetidine 2.4 MG/ML Injectable Solution	Drug	Clinical Drug
+19076050	Dacarbazine 10 MG/ML Injectable Solution	Drug	Clinical Drug
+19076704	dofetilide 0.25 MG Oral Capsule	Drug	Clinical Drug
+19077304	Ferrous fumarate 324 MG / Folic Acid 1 MG Oral Tablet	Drug	Clinical Drug
+19077571	gabapentin 800 MG Oral Tablet	Drug	Clinical Drug
+19077572	Galantamine 4 MG Oral Tablet	Drug	Clinical Drug
+19078607	insulin pork, isophane 100 UNT/ML Injectable Suspension	Drug	Clinical Drug

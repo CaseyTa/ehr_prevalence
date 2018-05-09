@@ -51,6 +51,8 @@ date: year of condition_start_date, drug_exposure_start_date, or procedure_date
 concept_id: condition_concept_id, drug_concept_id, or procedure_concept_id  
 domain_id: "Condition", "Drug", or "Procedure"
 
+Synthetic example files can be found in the ```synthetic_example_files``` folder. 
+
 
 ### EHR prevalence and co-occurrence analyses
 Occurrence and co-occurrence analyses are performed in Python    
@@ -81,5 +83,7 @@ Concept counts files: these files contain the prevalence data of each concept or
 Single concept counts and frequencies (1 file for the 5-year dataset and 1 file for the lifetime dataset)
 2. ```concept_pair_counts_<settings>.txt```  
 Paired concept counts and frequencies (1 file for the 5-year dataset and 1 file for the lifetime dataset)
-6. ```concept_counts_yearly_<settings>.txt```  
+3. ```concept_counts_yearly_<settings>.txt```  
 Counts and frequencies of each single concept per year (default settings do not generate this analysis)
+
+Synthetic example files can be found in the ```synthetic_example_files``` folder. 
